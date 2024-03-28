@@ -17,6 +17,9 @@ Luxeloom is a modern and stylish website showcasing designs for women's clothes.
 - **Blog**: Blog section for sharing fashion tips, trends, and updates.
 - **Contact Us**: Contact form and information for reaching out to Luxeloom.
 - **Shop**: Online store for purchasing Luxeloom designs.
+
+### Demo 
+ - Preview : [luxeloom](luxeloom.netlify.app)
   
 
 ## Installation
