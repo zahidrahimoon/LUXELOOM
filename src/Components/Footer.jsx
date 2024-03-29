@@ -17,7 +17,6 @@ const Footer = () => {
             <FaFacebook className="i fab fa-facebook " />
             <FaTwitter className="i fab fa-twitter" />
             <FaTiktok className="i fab fa-tiktok" />
-            <FaGithub className="i fab fa-github" />
             <FaInstagram className="i fab fa-instagram" />
           </div>
         </div>

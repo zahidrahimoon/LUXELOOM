@@ -16,7 +16,7 @@ const Home = () => {
     <Hero />
     <Product1 heading="Featured " spanText="Products" paragraph="Summer Collection New Modern Design"/>
     <HomeBannerOne />
-    <Product2 heading="Modern Designs" spanText="for You"   paragraph="According to your desires"/>
+    <Product2 heading="Modern" spanText="Designs"   paragraph="According to your desires"/>
     <HomeBannerTwo />
     <HomeBannerThree />
     <Footer />
