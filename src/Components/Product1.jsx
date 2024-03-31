@@ -1,9 +1,9 @@
 import React from 'react';
 import ProductItems from './ProductItems';
-import image1 from '../assets/ProductsImages/product1.jpg'
-import image2 from '../assets/ProductsImages/product2.jpg'
-import image3 from '../assets/ProductsImages/product3.jpg'
-import image4 from '../assets/ProductsImages/product4.jpg'
+import image1 from '../assets/Products/1.png'
+import image2 from '../assets/Products/2.png'
+import image3 from '../assets/Products/3.png'
+import image4 from '../assets/Products/4.png'
 const Product1 = ({ heading, spanText , paragraph }) => {
   return (
     <section id="product1">
