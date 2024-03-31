@@ -1,6 +1,6 @@
 import React from 'react';
 import Stores from '../assets/FooterImage/footer1.png'
-import { FaArrowUp, FaFacebook, FaGithub, FaInstagram, FaTiktok, FaTwitter } from 'react-icons/fa';
+import { FaFacebook, FaInstagram, FaTiktok, FaTwitter } from 'react-icons/fa';
 import BottomToTopBtn from './BackToTopButton';
 import BackToTopButton from './BackToTopButton';
 

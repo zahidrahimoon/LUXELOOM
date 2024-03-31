@@ -52,7 +52,7 @@ h6 {
 }
 #Page-header{
   width: 100%;
-  height: 50vh;
+  height: 60vh;
   object-fit: contain;
   display: flex;
   align-items: center;
@@ -145,7 +145,7 @@ body {
 }
 /* hero */
 #hero {
-  background-image: url(assets/HeroImages/1.avif);
+  background-image: url(assets/PageHeaderImages/2.png);
   height: 90vh;
   width: 100%;
   padding: 0 5rem;
