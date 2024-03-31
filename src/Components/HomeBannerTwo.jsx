@@ -1,7 +1,7 @@
 import React from 'react';
 import BannerBox from './BannerBox';
-import bna3 from '../assets/BannersImages/bna3.jpg'
-import bna4 from '../assets/BannersImages/bna4.jpg'
+import bna3 from '../assets/BannersImages/bn1.png'
+import bna4 from '../assets/BannersImages/bn3.png'
 
 const HomeBannerTwo = () => {
   return (

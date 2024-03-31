@@ -1198,16 +1198,16 @@ cursor: not-allowed;
 /* banner animation */
 @keyframes bannerSlide {
   0%, 30% {
-      background-image: url(assets/BannersImages/banner2.jpg);
+      background-image: url(assets/BannersImages/ban1.png);
   }
   30.01%, 50% {
-      background-image: url(assets/BannersImages/banner7.jpg);
+      background-image: url(assets/BannersImages/ban2.png);
   }
   50.01%, 80% {
-      background-image: url(assets/BannersImages/banner6.jpg);
+      background-image: url(assets/BannersImages/ban3.png);
   }
   80.01%, 100% {
-      background-image: url(assets/BannersImages/banner8.jpg);
+      background-image: url(assets/BannersImages/ban4.png);
   }
 }
 

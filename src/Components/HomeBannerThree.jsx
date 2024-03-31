@@ -1,8 +1,8 @@
 import React from "react";
-import  banner1  from '../assets/BannersImages/banner3.1.jpg';
-import  banner2  from '../assets/BannersImages/banner3.2.jpg';
-import  banner3  from '../assets/BannersImages/banner3.3.jpg';
-import BannerBox from "./BannerBox";
+import  banner1  from '../assets/BannersImages/bn2.png';
+import  banner2  from '../assets/BannersImages/bn4.png';
+import  banner3  from '../assets/BannersImages/bn5.png';
+import BannerBox from "./BannerBox";  
 
 const HomeBannerThree = () => {
     return (

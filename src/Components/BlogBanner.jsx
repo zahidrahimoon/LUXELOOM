@@ -1,8 +1,8 @@
 import BlogBox from "./BlogBox";
-import blog1 from "../assets/BlogImages/blog1.jpg";
-import blog2 from "../assets/BlogImages/blog2.jpg";
-import blog3 from "../assets/BlogImages/blog3.jpg";
-import blog4 from "../assets/BlogImages/blog4.jpg";
+import blog1 from "../assets/BlogImages/blog1.png";
+import blog2 from "../assets/BlogImages/blog2.png";
+import blog3 from "../assets/BlogImages/blog3.png";
+import blog4 from "../assets/BlogImages/blog4.png";
 
 const BlogBanner = () => {
     return (
