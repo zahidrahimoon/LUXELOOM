@@ -19,7 +19,7 @@ Luxeloom is a modern and stylish website showcasing designs for women's clothes.
 - **Shop**: Online store for purchasing Luxeloom designs.
 
 ### Demo 
- - Preview : [luxeloom](https://luxeloom.netlify.app/)
+ - Preview : [luxeloom](https://luxeloomecom.netlify.app/)
   
 
 ## Installation
