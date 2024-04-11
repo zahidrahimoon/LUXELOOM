@@ -2,7 +2,7 @@ import React from "react";
 
 const HomeBannerOne = () => {
   return (
-    <section id="banner" class="section-m1" data-aos="zoom-in-down">
+    <section id="banner" className="section-m1" data-aos="zoom-in-down">
       <h4>Repair Services</h4>
       <h2>
         Upto <span>70% off </span> All-Shirts & Accessories
